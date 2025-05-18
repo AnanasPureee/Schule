@@ -43,7 +43,7 @@ Schalttabelle:
 
 Schalttabelle:
 
-|a|A = a|
-|---|---|
-|0|1|
-|1|0|
+| a   | A = a |
+| --- | ----- |
+| 0   | 1     |
+| 1   | 0     |
