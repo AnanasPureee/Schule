@@ -2,7 +2,7 @@
 
 # Definition/Funktion
 
-- ein Halbaddierer addiert ist eine logische Schaltung, die ==2 einzelne Binärzahlen addieren== kann
+- ein Halbaddierer ist eine logische Schaltung, die ==2 einzelne Binärzahlen addieren== kann
 - Eingänge:
 	- A (1. Bit)
 	- B (2. Bit)
@@ -14,7 +14,7 @@
 
 | a   | b   | S   | Ü   |
 | --- | --- | --- | --- |
-| 0   | 0   | o   | 0   |
+| 0   | 0   | 0   | 0   |
 | 0   | 1   | 1   | 0   |
 | 1   | 0   | 1   | 0   |
 | 1   | 1   | 0   | 1   |

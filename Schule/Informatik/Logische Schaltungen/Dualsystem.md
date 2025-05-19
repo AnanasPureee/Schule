@@ -7,7 +7,7 @@
 
 # Prinzip
 
-- Jeder Stelle hat einen Wert einer Zweierpotenz
+- Jede Stelle hat einen Wert einer Zweierpotenz
 
 
 | 2 <sup>6<sup> | 2 <sup>5<sup> | 2 <sup>4<sup> | 2 <sup>3<sup> | 2 <sup>2<sup> | 2 <sup>1<sup> | 2 <sup>0<sup> |
