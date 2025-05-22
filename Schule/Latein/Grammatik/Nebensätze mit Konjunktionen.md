@@ -6,7 +6,7 @@
 
 | Konjunktion         |          Übersetzung          |
 | ------------------- | :---------------------------: |
-| cum (m.Konj.)       |     als. nachdem, während     |
+| cum (m.Konj.)       |     als, nachdem, während     |
 | cum (m.Ind.)        | als (plötzlich), immer (wenn) |
 | dum                 |       während, solange        |
 | postquam            |            nachdem            |
