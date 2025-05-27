@@ -1,5 +1,5 @@
 
-Haedui, cum se suaque ab iis defendere non possent, legatos ad Caesarem mittunt ==rogatum== auxilium: se omni tempore de populo Romano meritos esse, ut paene in conspectu exercitus nostri agri vastari, liberi eorum in servitutem abduci, oppida expugnari non debuerint.
+Haedui, cum se suaque ab iis defendere non possent, legatos ad Caesarem mittunt rogatum auxilium: se omni tempore de populo Romano meritos esse, ut paene in conspectu exercitus nostri agri vastari, liberi eorum in servitutem abduci, oppida expugnari non debuerint.
 
 Nachdem sie sich selbst und ihren Besitz nicht vor ihnen [den Helvetiern] verteidigen konnten, schickten sie die Gesandten zu Caesar, um um Hilfe zu fragen:
 so würden sie [das Volk der Sequaner] sich alle Zeit um das röm. Volk verdient machen [würden sie dem röm. Volk alle Zeit zu Dienste stehen], damit ihre Felder nicht fast in Sichtweite des Heeres verwüstet werden, ihre Freiheit in Sklaverei abgeführt werden und die Stadt nicht eingenommen werden müsse.
