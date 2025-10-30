@@ -4,6 +4,19 @@ public class Rover extends Actor
 {
     private Display anzeige;
     
+    public void Labarinth() {
+        while (!gesteinVorhanden()) {
+            fahre();
+            if (huegelVorhanden("links") && huegelVorhanden("vorne")){
+                drehe("rechts");
+            }if (huegelVorhanden("rechts") && huegelVorhanden("vorne")){
+                drehe("links");
+            }
+        }
+        analysiereGestein();
+        }
+    
+    
     public void gesteinkette(){
           int schritte = 0; 
             while(!markeVorhanden()){
