@@ -97,3 +97,22 @@ vetus, Gen. veteris
 | Dativ     | veter-ibus   | veter-ibus   |
 | Akkusativ | veter-ēs     | veter-**a**  |
 | Ablativ   | veter-ibus   | veter-ibus   |
+
+Komparativ
+
+Stamm + -ior oder -ius im neutrum
+nach Kons- Dekl.
+
+| **  <br>Singular** |                   |                |
+| ------------------ | ----------------- | -------------- |
+| Nominativ          | brev-ior (kürzer) | brev-ius       |
+| Genitiv            | brev-ior-is       |                |
+| Dativ              | brev-ior-i        |                |
+| Akkusativ          | brev-ior-em       | brev-ius       |
+| Ablativ            | brev-ior-e        |                |
+|                    | **Plural**        |                |
+| Nominativ          | brev-ior-ēs       | brev-ior-**a** |
+| Genitiv            | brev-ior-um       |                |
+| Dativ              | brev-ior-ibus     |                |
+| Akkusativ          | brev-ior-ēs       | brev-ior-**a** |
+| Ablativ            | brev-ior-ibus     |                |
